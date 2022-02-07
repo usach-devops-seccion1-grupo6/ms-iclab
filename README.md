@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started -
 
 ## Windowsasd
 ### Compile Code
@@ -9,7 +9,7 @@
 
 ### Jar Code
 * ./mvnw.cmd clean package -e
-
+   
 ### Run Jar
 * Local:      ./mvnw.cmd spring-boot:run 
 * Background: nohup bash mvnw.cmd spring-boot:run &
