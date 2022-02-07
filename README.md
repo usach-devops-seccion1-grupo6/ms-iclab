@@ -12,7 +12,7 @@
    
 ### Run Jar
 * Local:      ./mvnw.cmd spring-boot:run 
-* Background: nohup bash mvnw.cmd spring-boot:run &
+* Background: nohup bash mvnw.cmd spring-boot:run &  
 
 ### Testing Application
 * Abrir navegador: http://localhost:8080/rest/mscovid/test?msg=testing
